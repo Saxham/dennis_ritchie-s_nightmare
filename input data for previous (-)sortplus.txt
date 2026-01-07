@@ -1,0 +1,7 @@
+input data for previous (-)sort/plus(+) amount only for shrawan 1  after shrawan 1 keep non editable after that day
+create table  Income/expenses summary below the Balance Summary named previous (-)sort/plus(+) amount ,today's (-)sort/plus(+) , upto today (-)sort/plus(+) amount upto existing each date of that month, in column,
+where 
+previous (-)sort/plus(+) amount = previous date's upto today (-)sort/plus(+) amount,
+today's (-)sort/plus(+) = Total Product Amount (-/+) difference of selected date - (Cash Withdrawal+Diesel Expenses Amount+Gadi Marmat (Vehicle Maintenance)+Driver + Helper Wages+Nasta + Tax etc),
+upto today (-)sort/plus(+) amount=previous (-)sort/plus(+) amount + today's (-)sort/plus(+),
+give  code and detail process to put code

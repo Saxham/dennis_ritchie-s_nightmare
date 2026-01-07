@@ -1,0 +1,10 @@
+Remove the search tab and export tab
+Add Vatable and non-vatable column for each product.
+Add purchase with quantity and amount.
+Add difference with quantity, amount where , z= difference,a = total quantity and b= purchase quantity,z= a - b,C = total amount and D = purchase amount, x= C-D, where 
+In daily sales report, monthly sales report and date range report table, add total with quantity and amount of each product with party name before the difference column.
+At the bottom, add grand total of amount only, add without VAT amount, VAT amount and total amount for all product of each party below the amount column, donot display VAT breakdown words.
+ let E=without VAT amount,F=product quantity,G=without VAT retailer price,H=without VAT franchise price,I=without VAT consumer price,J=VAT amount,K=retailer VAT amount,L=franchise VAT amount,M=consumer VAT amount,from current sales of subtab rate entry for each product
+formula  E = F * (G,H,I ), let J = (K, L,M) 
+ apply this formula for both vatable and non vatable product only for daily sales report, monthly sales report and date range report.
+give complete html code
