@@ -46,7 +46,7 @@ int main()
 		printf(" ");
 	}
 	printf("WELCOME TO PRISONER'S DILEMMA!\n");
-	printf("\nI'm the jailer of the Kulweinhwiz prison and confinement and I'm gonna bail you out of this hell but there are some catch to escape this place.\n You, along with your other fellow prisoner shall be provided with some of my hard earned treasuries and you will have to choose whether you will contempt your fellow mate or shall steal it right behind his nose. The fate is yours and you'll be given points based on your decisions.\n So GOOD LUCK and score some nice points to better escape this hell and the points required to win shall be calculated on the basis of rounds you play. SO are you ready?\n");
+	printf("\nI'm the jailer of the Kuimusho prison and confinement and I'm gonna bail you out of this hell but there are some catch to escape this place.\n You, along with your other fellow prisoner shall be provided with some of my hard earned treasuries and you will have to choose whether you will contempt your fellow mate or shall steal it right behind his nose. The fate is yours and you'll be given points based on your decisions.\n So GOOD LUCK and score some nice points to better escape this hell and the points required to win shall be calculated on the basis of rounds you play. SO are you ready?\n");
  printf("\nso how many of you are playing? is it only you or you have a fellow mate with ya? Ya select between 1 and 2\n");
  scanf("%d",&p);
  switch (p){
@@ -231,4 +231,5 @@ int main()
  
  return 0;
 }
+
 
